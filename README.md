@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Kalyani Vaidya
 
+
 🎓 **MS in Computer Science @ Central Michigan University**  
-🎯 **AI/ML Enthusiast | Full-Stack SDE | Cybersecurity Analyst**
+🎯 **AI/ML Enthusiast | Full-Stack SDE | Cybersecurity Analyst**   
 🧠 Passionate about building secure, intelligent, and scalable systems
 
 ---
