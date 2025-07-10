@@ -82,16 +82,6 @@
 
 ---
 
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyani-25&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kalyani-25&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani-25&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyanivaidya25/)
