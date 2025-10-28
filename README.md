@@ -9,7 +9,7 @@
 
 ## 🧭 About Me
 
-- 🛡️ Currently working as a Security Analyst @ Central Michigan University
+- 🛡️ Currently working as a Security Analyst - Software & Automation @ Central Michigan University
 - 👩‍💻 Previously worked as a Software Engineer @ APRG Technologies (India)
 - 🚀 I'm learning more about real-time threat detection, ML pipelines & advanced DevOps
 - 📁 All of my projects are available [here](https://github.com/kalyani-25?tab=repositories)
