@@ -2,6 +2,7 @@
 
 
 🎓 **MS in Computer Science @ Central Michigan University**  
+☁️ **Cloud Systems & Distributed Engineering**
 🎯 **AI/ML Enthusiast | Full-Stack SDE | Cybersecurity Analyst**   
 🧠 Passionate about building secure, intelligent, and scalable systems
 
@@ -9,8 +10,18 @@
 
 ## 🧭 About Me
 
-- 🛡️ Currently working as a Security Analyst - Software & Automation @ Central Michigan University
-- 👩‍💻 Previously worked as a Software Engineer @ APRG Technologies (India)
+- 🛡️ Currently working as a Cloud Systems & Automation Research Assistant @ Central Michigan University
+- 👩‍💻 Previously worked as a Software Engineer @ APRG Technologies (India) 
+- 🚀 **Currently exploring**
+  - AI Infrastructure & GenAI automation  
+  - Cloud reliability engineering  
+  - Secure, scalable system design
+- ⚙️ **Core Strengths**
+  - Distributed Systems & Microservices  
+  - Kubernetes (EKS), Docker, CI/CD  
+  - Kafka & Event-Driven Architecture  
+  - AI/ML Integration (LLMs, NLP, Automation)  
+  - Observability & Production Debugging
 - 🚀 I'm learning more about real-time threat detection, ML pipelines & advanced DevOps
 - 📁 All of my projects are available [here](https://github.com/kalyani-25?tab=repositories)
 - 🧠 Ask me about Python, GANs, Threat Analysis, Full-stack apps (or music recommendations 🎧)
@@ -19,6 +30,8 @@
 - 🙋‍♀️ P.S: I believe in writing clean and meaningful code with real-world impact
 
 ---
+
+
 
 ## 💻 Tech Stack
 
