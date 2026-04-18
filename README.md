@@ -10,7 +10,7 @@
 
 ## 🧭 About Me
 
-- 🛡️ Currently working as a Cloud Systems & Automation Research Assistant @ Central Michigan University
+- 🛡️ Currently working as a AI Research Assistant @ Central Michigan University
 - 👩‍💻 Previously worked as a Software Engineer @ APRG Technologies (India) 
 - 🚀 **Currently exploring**
   - AI Infrastructure & GenAI automation  
